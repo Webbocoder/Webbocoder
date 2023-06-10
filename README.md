@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=webbocoder&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats-tau-green.vercel.app/api?username=webbocoder&show_icons=true&theme=transparent)
 
 
 <!--
