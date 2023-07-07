@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-On 5th July 2023, I completed the School of Code bootcamp! I will be updating my Github shortly!
+On 5th July 2023, I completed the School of Code bootcamp! I am in the process of improving my online presence! Watch this space!
 
 ![Anurag's GitHub stats](https://github-readme-stats-tau-green.vercel.app/api?username=webbocoder&show_icons=true&theme=transparent)
 
