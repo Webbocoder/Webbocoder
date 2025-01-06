@@ -10,7 +10,7 @@ I have a background in piano tuition and am now embarking on a new journey in th
 * 🌍  I'm based in East London.
 * 🖥️  See my portfolio at [MyPortfolio.](http://github.com/Webbocoder)
 * ✉️  You can contact me at [webbforjobs@gmail.com](mailto:webbforjobs@gmail.com)
-* 🚀  I'm currently working on [Musuical Code Translator]([http://helpme-helpyou-favour.netlify.app/](https://github.com/Webbocoder/MusicalCodeTranslator))
+* 🚀  I'm currently working on [Musuical Code Translator](https://github.com/Webbocoder/MusicalCodeTranslator)
 * 🧠  I'm learning C# and Python.
 * 🤝  I'm open to work!
 * ⚡  Before tapping on computer keyboards, I used to tickle the ivories and still do from time to time. 🎹
