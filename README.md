@@ -2,16 +2,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 Junior Software Developer
--------------------------
+---------
 
+I have worked in Web Development for about a year. I have currently been between jobs for about 4 months, but have been doing Udemy courses in Python and C# in the meantime.
 I have a background in piano tuition and am now embarking on a new journey in the field of web development. With a passion for both education and technology, I bring a unique blend of skills to the table. My experience as a piano teacher has honed my communication abilities, patience, and attention to detail, while my growing expertise in web development allows me to create innovative and user-friendly digital solutions.
 
 * 🌍  I'm based in East London.
 * 🖥️  See my portfolio at [MyPortfolio.](http://github.com/Webbocoder)
 * ✉️  You can contact me at [webbforjobs@gmail.com](mailto:webbforjobs@gmail.com)
-* 🚀  I'm currently working on [HelpMeHelpYou.](http://helpme-helpyou-favour.netlify.app/)
-* 🧠  I'm learning Using Jest with Typescript and Error Handling.
-* 🤝  I'm open to collaborating on interesting projects.
+* 🚀  I'm currently working on [Musuical Code Translator]([http://helpme-helpyou-favour.netlify.app/](https://github.com/Webbocoder/MusicalCodeTranslator))
+* 🧠  I'm learning C# and Python.
+* 🤝  I'm open to work!
 * ⚡  Before tapping on computer keyboards, I used to tickle the ivories and still do from time to time. 🎹
 
 <a href="https://www.github.com/Webbocoder" target="_blank" rel="noreferrer"><img
