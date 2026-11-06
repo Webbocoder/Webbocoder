@@ -1,17 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christopher Webb
 ========================================================================================================================================
 
-Junior Software Developer
+Full-Stack Developer
 ---------
 
-I have worked in Web Development for about a year, working mainly with React.js and C# / .Net Blazor. I am currently doing Udemy courses in Python and C#.
-I have a background in piano tuition and am now embarking on a new journey in the field of web development. With a passion for both education and technology, I bring a unique blend of skills to the table. My experience as a piano teacher has honed my communication abilities, patience, and attention to detail, while my growing expertise in web development allows me to create innovative and user-friendly digital solutions.
+I'm a full-stack developer with three years' commercial experience, building and supporting production web apps with C#/.NET backends and React, Next.js and .NET Blazor frontends. I've also worked with TypeScript, NestJS, PostgreSQL, Azure, GCP and Fly.io, and I'm currently working through an advanced C# course on Udemy.
+Before moving into software, I taught piano. That background shaped how I work: clear communication, patience and attention to detail, which I now bring to building reliable, user-friendly software.
 
 * 🌍  I'm based in East London.
-* 🖥️  See my portfolio at [MyPortfolio.](http://github.com/Webbocoder)
+* 🖥️  Portfolio coming soon.
 * ✉️  You can contact me at [webbforjobs@gmail.com](mailto:webbforjobs@gmail.com)
-* 🚀  I'm currently working on [Musuical Code Translator](https://github.com/Webbocoder/MusicalCodeTranslator)
-* 🧠  I'm learning C# and Python.
+* 🚀  Personal project: [Musical Code Translator](https://github.com/Webbocoder/MusicalCodeTranslator)
+* 🧠  I'm deepening my C# and .NET knowledge.
 * 🤝  I'm open to work!
 * ⚡  Before tapping on computer keyboards, I used to tickle the ivories and still do from time to time. 🎹
 
@@ -36,6 +36,18 @@ src="https://img.shields.io/twitter/follow/webbocoder?logo=twitter&style=for-the
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="Next.js" /></a>
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="Tailwind CSS" /></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" /></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="WordPress" /></a>
+  <a href="https://www.framer.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" /></a>
 </p>
 
 
